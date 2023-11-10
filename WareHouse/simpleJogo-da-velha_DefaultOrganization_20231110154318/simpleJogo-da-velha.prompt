@@ -1,0 +1,1 @@
+um jogo da velha simples rodando no navegador, usando html, css e js, cada clique no quadrado do jogo deve formar um circulo ou uma bola, e deve identificar quem venceu ou empates, ao finalizar, um botao pra resetar o jogo
